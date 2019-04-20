@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "palanik/corsslim": "dev-slim3",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17"
+
+    }
+}

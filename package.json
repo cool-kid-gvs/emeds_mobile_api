@@ -1,0 +1,19 @@
+{
+  "name": "back-rest",
+  "version": "0.0.1",
+  "description": "Backend REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "php -S localhost:8888 -t . ./index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Sonnet/back-api.git"
+  },
+  "author": "Pavitra Behre, Zubin Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Sonnet/back-api/issues"
+  },
+  "homepage": "https://gitlab.com/Sonnet/back-api#README"
+}
